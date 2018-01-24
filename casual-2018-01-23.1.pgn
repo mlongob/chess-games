@@ -1,0 +1,18 @@
+[Event "Casual Office Match"]
+[Site "New York City, NY USA"]
+[Date "2018.01.23"]
+[Round "2"]
+[White "Longobardi, Mario"]
+[Black "Trzeciak, Andy"]
+[Result "1-0"]
+[TimeControl "2700+5"]
+[Variant "Standard"]
+[Termination "normal"]
+[Mode "OTB"]
+
+1. d4 d5 2. c4 dxc4 3. e3 b5 4. a4 c6
+5. axb5 cxb5 6. Qf3 Bd7 7. Qxa8 Nc6 8. Qxd8+ Kxd8
+9. Nf3 e6 10. Nc3 Bb4 11. Bd2 Bxc3 12. Bxc3 f6
+13. Ba5+ Ke8 14. Bc3 Nge7 15. Rb1 e5 16. b3 cxb3
+17. Bxb5 Kf7 18. O-O Rb8 19. Rxb3 a6 20. Ba4 Rxb3
+21. Bxb3+ 1-0
